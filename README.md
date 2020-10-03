@@ -33,7 +33,8 @@ NodeJs/Functions com Firebase/Firestore
 - Siga adiante e escolha no menu a opção `Functions`. Ao concluir será criado alguns arquivos incluindo o diretório de dependências denominado `node_modules`.
 - Execute `npm i express` (framework de aplicações web)
 - Execute `npm i cors` (Pacote para fornecer um middleware Connect/Express)
-- No diretorio functions abra o arquivo index.js, faça as alterações e teste `npm run serve`
+- No diretorio functions substitua o arquivo `index.js` por este do git e teste `npm run serve`
+- Caso queira subir para nuvem digite no diretorio funcions `firebase deploy`
 
 ---
 
