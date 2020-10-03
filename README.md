@@ -36,6 +36,14 @@ NodeJs/Functions com Firebase/Firestore
 - No diretorio functions substitua o arquivo `index.js` por este do git e teste `npm run serve`
 - Caso queira subir para nuvem digite no diretorio funcions `firebase deploy`
 
+Obs: Se você quiser apenas terminar este tutorial, basta alterar a versão do node de 10 para 8 no arquivo `package.json`.
+
+```shell
+"engines": {
+  "node": "8"
+}
+```
+
 ---
 
 ## Contato
