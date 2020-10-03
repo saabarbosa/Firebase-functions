@@ -31,9 +31,9 @@ NodeJs/Functions com Firebase/Firestore
 > ![Print Firebase Login](https://github.com/saabarbosa/FirebaseFunctions/blob/main/firebase-login.jpg)
 
 - Siga adiante e escolha no menu a opção `Functions`. Ao concluir será criado alguns arquivos incluindo o diretório de dependências denominado `node_modules`.
-- Execute `npm i express` (para criar o servidorweb)
-- Execute `npm i cors` (para criar ...)
-
+- Execute `npm i express` (framework de aplicações web)
+- Execute `npm i cors` (Pacote para fornecer um middleware Connect/Express)
+- No diretorio functions abra o arquivo index.js, faça as alterações e teste `npm run serve`
 
 ---
 
