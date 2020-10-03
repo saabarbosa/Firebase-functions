@@ -26,11 +26,9 @@ NodeJs/Functions com Firebase/Firestore
 - Instale o Postman em https://www.getpostman.com/downloads/ (usaremos isso para testar nossas funções).
 - No diretorio do projeto execute o comando: `npm install -g firebase-tools@latest` (instala o firebase-tools package)
 - Para logar no firebase digite `firebase login`
-- Em seguida `firebase init"
+- Em seguida `firebase init`
 
-
-
-
+> ![Print Firebase Login](https://github.com/saabarbosa/FirebaseFunctions/blob/main/firebase-login.jpg)
 
 - Escolha `Functions` e siga...
 
